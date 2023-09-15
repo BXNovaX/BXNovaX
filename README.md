@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BXNovaX
 - 👀 I’m interested in Software Engneering
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Web Security :)
 - 📫 How to reach me <a href="mailto:mhmk.nova@pm.me">mhmk.nova@pm.me</a>
 
 <!---
